@@ -1,0 +1,4 @@
+opencv-python== 4.11.0
+scikit-image== 0.25.2
+Pillow== 11.2.1
+matplotlib== 3.10.0
